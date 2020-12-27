@@ -1,3 +1,5 @@
+<img src="screenshot_1.png">
+
 # U-Report Application
 UReport app with offline feedback feature based on RapidPro and Offline Surveyor.
 
