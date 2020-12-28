@@ -31,5 +31,5 @@ The application is available on Google Play Store.
 
 <a href="https://play.google.com/store/apps/details?id=com.riseuplabs.ureport.general" target="_blank"><img src="google-play-en@2x.png"></a>
 
-Developed for <a href="https://unicef.org/" target="_blank">Unicef</a><br>
+Developed for <a href="https://www.unicef.org/bangladesh/" target="_blank">UNICEF Bangladesh</a><br>
 Designed & Developed by <a href="https://riseuplabs.com" target="_blank">Riseup Labs</a>
